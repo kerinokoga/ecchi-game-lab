@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /assets/sensitive/
 
 Sitemap: https://ecchi-game-lab.com/sitemap.xml
