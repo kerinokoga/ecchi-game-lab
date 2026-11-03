@@ -57,3 +57,4 @@ footer.site a{color:var(--muted)}
 .gallery figcaption{font-size:.85rem;text-align:center;margin-top:4px}
 .reveal{width:100%;aspect-ratio:3/4;border:0;border-radius:8px;background:linear-gradient(135deg,#ffd6e5,#ffe9d6);color:#7a3550;font:inherit;font-size:.85rem;cursor:pointer;display:flex;align-items:center;justify-content:center;text-align:center;padding:8px}
 .reveal b{font-size:1rem;color:var(--accent-ink)}
+.voice{background:var(--soft);border-radius:10px;padding:10px 14px;margin-top:16px;font-weight:700;color:var(--accent-ink);text-align:center}
